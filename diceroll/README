@@ -1,1 +1,1 @@
-
+The functionality of this app is just that when you click the dice image is changed. This is just to demonstrate the stateful widget in futter. There are 6 images of dice one for each phase when you cick n the dice it will change the image which feels like the dice is rotating
